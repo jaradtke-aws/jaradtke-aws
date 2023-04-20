@@ -8,7 +8,7 @@
 | Service / Username       | URL |
 |:-------------------------|:------------------------------------------|
 | LinkedIn                 | https://www.linkedin.com/in/to-the-cloud/ |
-| Credly                   | https://credly.com/users/knowbettercloud  |
+| Credly                   | https://credly.com/users/cloudxabide      |
 
 
 ![AWS Certified Cloud Practitioner](./images/aws-certified-cloud-practitioner-200x200.png)
