@@ -35,8 +35,8 @@
 # Best Practices (Universal Recommendations)
 * Do NOT use the "Root Account" for anything other than creating new IAM accounts.
 * Use MFA.  Always. (where possible)
-* Use Short-term credentials (if/when you are needing programmatic access).
-* Cloud9 is a great IDE which is integrated to AWS Services and does not require management of AWS access keys.
+* Use [Short-term credentials](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_temp.html) (if/when you are needing programmatic access).
+* [AWS Cloud9](https://aws.amazon.com/cloud9/) is a great web-based IDE which is integrated to AWS Services and does not require management of AWS access keys.
 * Create and use a ["tagging strategy"](https://docs.aws.amazon.com/general/latest/gr/aws_tagging.html) of some sort.
 * Check out [AWS IAM Identity Center](https://aws.amazon.com/iam/identity-center/) - Perhaps not everyone will use IAM Identity Center - but.. everyone **should** at least be familiar.
 
