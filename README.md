@@ -13,6 +13,7 @@
 | LinkedIn                 | https://www.linkedin.com/in/to-the-cloud/ |
 | Credly                   | https://credly.com/users/cloudxabide      |
 
+## Certifications
 ![AWS Certified Cloud Practitioner](./images/aws-certified-cloud-practitioner-200x200.png)
 ![AWS Certified Solutions Architect Associate](./images/aws-certified-solutions-architect-associate-200x200.png)
 ![AWS Certified SysOps Administrator Associate](./images/aws-certified-sysops-associate-200x200.png)
@@ -26,8 +27,7 @@
 <BR>
 ![IBM (edX) Intro to Data Science](./images/IBM_edX-introduction-to-data-science-200x200.png)
 ![Deeplearning.AI - GenAI with Large Language Models](./images/GenAI-with-LLM-200x200.png)
-<BR>
-Expired Certs
+## Certifications (Expired/Old)
 ![Red Hat Certified Specialist in Gluster Storage Administration](./images/RedHatCertifiedSpecialist_in_GlusterStorageAdministration-200x200.png)
 ![Red Hat Certified Specialist in Virtualization](./images/RedHatCertifiedSpecialist_in_Virtualization-200x200.png)
 ![Red Hat Certified Engineer](./images/RedHatCertifiedEngineer-200x200.png)
