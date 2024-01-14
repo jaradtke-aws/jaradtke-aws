@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jaradtke-aws (James Radtke).  This is my work-related Github account and my personal contributions.
 - 👀 I’m interested in ... Hybrid Cloud, Containers/Kubernetes
 - 🌱 I’m currently working on... 
- -[EKS Anywhere](https://github.com/aws/eks-anywhere) 
+ - [EKS Anywhere](https://github.com/aws/eks-anywhere) 
  - [EKS Workshop](https://github.com/aws-samples/eks-workshop-v2)
  - [Data on EKS](https://github.com/jaradtke-aws/data-on-eks)
 - 💞️ I’m looking to collaborate on ... "how-to content", podcasts, etc...
