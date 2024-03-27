@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @jaradtke-aws (James Radtke).  This is my work-related Github repo and my personal contributions.
-- 👀 I’m interested in ... Hybrid Cloud/Edge Compute, Containers/Kubernetes, AI/ML
+- 👋 Hi, I’m @jaradtke-aws (James Radtke).  This is my work-related Github repo and my personal contributions.  - 👀 I’m interested in ... Hybrid Cloud/Edge Compute, Containers/Kubernetes, AI/ML
 - 🌱 I’m currently working on... 
   - [EKS Anywhere](https://github.com/aws/eks-anywhere) 
   - [EKS Workshop](https://github.com/aws-samples/eks-workshop-v2)
@@ -10,7 +9,7 @@
 | Service / Username       | URL |
 |:-------------------------|:------------------------------------------|
 | LinkedIn                 | https://www.linkedin.com/in/to-the-cloud/ |
-| Credly                   | https://credly.com/users/cloudxabide      |
+| Credly                   | https://credly.com/users/jaradtke-aws      |
 
 # Certifications
 ![AWS Certified Cloud Practitioner](./images/aws-certified-cloud-practitioner-200x200.png)
@@ -40,6 +39,7 @@
 * Create and use a ["tagging strategy"](https://docs.aws.amazon.com/general/latest/gr/aws_tagging.html) of some sort.
 * Check out [AWS IAM Identity Center](https://aws.amazon.com/iam/identity-center/) - Perhaps not everyone will use IAM Identity Center - but.. everyone **should** at least be familiar.
 
+[![jaradtke-aws's github stats](https://github-readme-stats.vercel.app/api?username=jaradtke-aws&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 jaradtke-aws/jaradtke-aws is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
